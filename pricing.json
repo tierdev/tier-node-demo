@@ -1,0 +1,43 @@
+{
+  "plans": {
+    "plan:free@1": {
+      "title": "Free as a bird",
+      "features": {
+        "feature:convert": {
+          "title": "Temperature Conversions",
+          "tiers": [
+            {
+              "upto": 10,
+              "price": 0
+            },
+            {
+              "upto": 100,
+              "price": 1
+            },
+            {
+              "price": 100
+            }
+          ]
+        }
+      }
+    },
+    "plan:pro@1": {
+      "title": "Totes Profesh",
+      "features": {
+        "feature:convert": {
+          "title": "Temperature Conversions",
+          "tiers": [
+            {
+              "base": 1000,
+              "price": 0,
+              "upto": 100
+            },
+            {
+              "price": 1
+            }
+          ]
+        }
+      }
+    }
+  }
+}

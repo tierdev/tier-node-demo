@@ -7,7 +7,9 @@
   "license": "ISC",
   "scripts": {
     "start": "node server.js",
-    "dev": "env $(cat .env) npm start"
+    "tierpush": "tier push pricing.json",
+    "dev": "env $(cat .env) npm start",
+    "devtierpush": "env $(cat .env) npm run tierpush"
   },
   "dependencies": {
     "@tier.run/sdk": "^0.0.30",
