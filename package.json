@@ -12,7 +12,7 @@
     "devtierpush": "env $(cat .env) npm run tierpush"
   },
   "dependencies": {
-    "@tier.run/sdk": "^0.0.31",
+    "@tier.run/sdk": "^0.0.39",
     "body-parser": "^1.20.0",
     "cookie-parser": "^1.4.6",
     "ejs": "^3.1.7",

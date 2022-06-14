@@ -1,28 +1,16 @@
 {
   "plans": {
-    "plan:free@2": {
-      "title": "Free as a bird",
-      "features": {
-        "feature:convert": {
-          "tiers": [
-            {
-              "upto": 10,
-              "price": 0
-            }
-          ]
-        }
-      }
-    },
     "plan:pro@2": {
       "title": "Totes Profesh",
       "features": {
         "feature:convert": {
           "tiers": [
             {
-              "base": 1000,
+              "base": 10000,
               "price": 0,
-              "upto": 100
+              "upto": 1000
             },
+            { "upto": 10000, "price": 2 },
             {
               "price": 1
             }
