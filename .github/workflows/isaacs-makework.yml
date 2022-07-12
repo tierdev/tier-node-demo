@@ -1,4 +1,4 @@
-name: "various tidying up tasks to silence nagging"
+name: 'various tidying up tasks to silence nagging'
 
 on:
   push:

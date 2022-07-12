@@ -41,17 +41,16 @@ Then run `npm run devtierpush ; npm run dev`.
 
 ## Running Prod Style
 
-Put all those things in the actual environment, and run `npm
-start`.
+Put all those things in the actual environment, and run `npm start`.
 
 ## Notes for Demoers and Demoees
 
-The initial commit is "the app, without any Tier".  It's
+The initial commit is "the app, without any Tier". It's
 basically a stub, many things have intentionally not been
 implemented.
 
 The `tier-integration` branch is a step-by-step integration of
-Tier into the app.  You can walk through it bit by bit, or view
+Tier into the app. You can walk through it bit by bit, or view
 the final merge commit to see it all together at once.
 
 Most of the tier-related parts are in the top portion of
