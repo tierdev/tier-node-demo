@@ -11,15 +11,6 @@
               "price": 0
             }
           ]
-        },
-        "feature:foo": {
-          "title": "placeholder",
-          "tiers": [
-            {
-              "upto": 10,
-              "price": 0
-            }
-          ]
         }
       }
     },
@@ -36,15 +27,6 @@
             },
             {
               "price": 1
-            }
-          ]
-        },
-        "feature:foo": {
-          "title": "placeholder",
-          "tiers": [
-            {
-              "upto": 10,
-              "price": 0
             }
           ]
         }
